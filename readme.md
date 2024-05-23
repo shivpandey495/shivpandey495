@@ -1,6 +1,6 @@
 ![logo](https://github.com/ShivSahay/ShivSahay/blob/main/shiv.png)
 <h1 align="center">Hi 👋, I'm Shiv Sahay Pandey</h1>
-<h3 align="center">A passionate frontend developer from Noida Uttar Pradesh India</h3>
+<h3 align="center">A passionate Software Engineer from Noida Uttar Pradesh India</h3>
 
 <img align="right" alt="github-banner" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
