@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivpandey495&label=Profile%20views&color=0e75b6&style=flat" alt="shivsahay" /> </p>
 
 - 📫 How to reach me **pt.shivsahaypandey@gmail.com**
+- 🌐 Visit my portfolio: [shivpandey.dev]([https://shivpandey.dev](https://portfolio-shiv-pandey.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
